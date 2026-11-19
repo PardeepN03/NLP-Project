@@ -1,0 +1,7 @@
+
+streamlit
+transformers
+torch
+pypdf
+sentencepiece
+# streamlit run app.py
